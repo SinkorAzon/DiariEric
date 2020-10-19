@@ -1,7 +1,7 @@
 # 1 – Creació d’una pàgina Web utilitzant eines Git i Github
 
 1. Creo un directori de treball anomenat /DiariVostreNom/ en el directori de l'usuari.  
-![image](https://user-images.githubusercontent.com/71662908/96488035 b857d100-123d-11eb-9194-9fdc236dab1e.png)  
+![image](https://user-images.githubusercontent.com/71662908/96489553-df170700-123f-11eb-9694-742c142fd2bc.png)
 2. Inicialitzar el repositori buit.  
 ![image](https://user-images.githubusercontent.com/71662908/96488065-c1e13900-123d-11eb-95fc-6e87a0b2adc6.png)  
 3. Crear l'arxiu index.html.  
