@@ -139,4 +139,4 @@ fetch i git pull
 ![image](https://user-images.githubusercontent.com/71662908/96491886-163ae780-1243-11eb-9d79-87e9bd24c206.png)  
 56. Actualitzar DOCUMENT.MD amb els últims canvis, fer commit corresponent i actualitzar
 repositori remot.  
-
+![image](https://user-images.githubusercontent.com/71662908/96492128-7467ca80-1243-11eb-9d21-88a106a3a174.png)  
