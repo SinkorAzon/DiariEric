@@ -123,6 +123,20 @@ hagués.
 ![image](https://user-images.githubusercontent.com/71662908/96489205-6adc6380-123f-11eb-9f56-50b7b1cd9d7e.png)  
 50. Crear una etiqueta de v1.2.  
 ![image](https://user-images.githubusercontent.com/71662908/96489219-716adb00-123f-11eb-9ed6-4b11548d7845.png)  
-
-
+51. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions etc…També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujarho a github ( ex: drag and drop) o treballar directament en l'editor de Github.  
+![image](https://user-images.githubusercontent.com/71662908/96491749-ed1a5700-1242-11eb-85eb-f25d0ea69d49.png)  
+52. Activar la utilització de gh-pages i l'adreça de la pàgina web que es mostrés: recordar que
+serà del tipus https://username.github.io/Diariremotoeduardo.  
+![image](https://user-images.githubusercontent.com/71662908/96491771-f4416500-1242-11eb-9166-7f657ba437c6.png)  
+![image](https://user-images.githubusercontent.com/71662908/96491790-fa374600-1242-11eb-810b-88676d29bbac.png)  
+53. Afegir un document Readme.md escrit en Markdown, amb el vostre nom, curs i nom- practica “Practica Diari Vostre Nom” i enllaç a la vostra pàgina generada anteriorment.  
+![image](https://user-images.githubusercontent.com/71662908/96491829-015e5400-1243-11eb-95f7-37fd3edba9de.png)  
+54. Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la pagina s'ha de visualitzar de forma correcta, en particular la carpeta CSS amb el css creat i la carpeta imatges.  
+https://github.com/SinkorAzon/DiariEric  
+55. Actualitzar-ho amb els commits i canvis fets en el repositori remot ( fent possiblement git
+fetch i git pull  
+![image](https://user-images.githubusercontent.com/71662908/96491874-10dd9d00-1243-11eb-96fc-e223a5c9c9a7.png)  
+![image](https://user-images.githubusercontent.com/71662908/96491886-163ae780-1243-11eb-9d79-87e9bd24c206.png)  
+56. Actualitzar DOCUMENT.MD amb els últims canvis, fer commit corresponent i actualitzar
+repositori remot.  
 
